@@ -1,5 +1,5 @@
-import openai
-import os
+#import openai
+#import os
 import time
 import streamlit as st
 
