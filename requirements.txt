@@ -1,0 +1,10 @@
+openai==1.2.3
+tiktoken
+python-dotenv
+Pillow
+ipython
+moviepy
+pytube
+opencv-python
+streamlit
+ffmpeg
